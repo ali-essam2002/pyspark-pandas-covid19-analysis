@@ -1,7 +1,5 @@
 # 🔥 PySpark & Pandas — COVID-19 Data Analysis
 
-> A hands-on, end-to-end notebook that bridges **Pandas** (in-memory analysis) and **PySpark** (distributed processing) using a real-world COVID-19 dataset.
-
 ---
 
 ## 📌 Overview
@@ -23,23 +21,7 @@ pyspark-pandas-covid19-analysis/
 
 ---
 
-## 🧠 What You Will Learn
 
-| Topic | Details |
-|---|---|
-| **PySpark vs Pandas** | When to use each tool and their trade-offs |
-| **Environment setup** | Installing PySpark, findspark, and Pandas |
-| **SparkSession** | Creating and configuring a session with Arrow optimisation |
-| **Data ingestion** | Loading a remote CSV with Pandas |
-| **Schema definition** | Explicit `StructType` schemas for type-safe Spark DataFrames |
-| **DataFrame conversion** | Pandas → Spark with type alignment and null handling |
-| **Exploration** | `select`, `filter`, `show`, `printSchema` |
-| **Column derivation** | Computing derived metrics with `withColumn` |
-| **Aggregation** | `groupBy` + `agg` for continental summaries |
-| **UDFs** | Writing and registering Python User-Defined Functions |
-| **Spark SQL** | Running SQL queries against temporary views |
-
----
 
 ## 🗂️ Notebook Sections
 
